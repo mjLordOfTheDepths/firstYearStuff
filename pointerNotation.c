@@ -1,6 +1,6 @@
 
 /* 
-Author: Michael Moore C233739373
+Author: Michael Moore C23373973
 Date: 5/12/23
 Program Description: Copying contents of Array A to array B using pointer notation.
 */
